@@ -1,0 +1,26 @@
+# Ignore Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Environment variables files
+*.env
+
+# macOS system files
+.DS_Store
+
+# IDE files
+.idea/
