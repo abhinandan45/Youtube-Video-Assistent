@@ -16,7 +16,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.documents import Document
 
 # ---- Configuration ----
-API_KEY = "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"
+API_KEY = "sk-or-v1-ef341aa5da86c2b9b767f998dfca59ee4c56ed925592b51cfb5cd8003cf4ddc"
 MODEL = "deepseek/deepseek-chat"
 ENDPOINT = "https://openrouter.ai/api/v1/chat/completions"
 
